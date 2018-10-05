@@ -1,0 +1,173 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha2] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha2.aar/fd01eb0fd4598b86622226b0d3c5a00b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/658898f676463fcf8652fa19faf8b643/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/b99b6c4e1f5a49398b2d545bdaaba86e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9257bb2ffe4ef1e5e183f77452c90128/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e4b5de7d21f8edc9bd30f79e1864b317/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ee3eaa31003a96b5cef688303f982034/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/75a7af2a6497bae492190eda6b570d4a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f4e9148d8e7f258e5a6a9ada43918fcd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/174418089249838f07eed78fcbfc983b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/79699971f8ecc0f3b1138a482135473b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4039632a0b58e6c13636d759832a711c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/40d6d9d9ad6b8b1367c65c2928570917/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/01f1a3bdd271b986a8c9953cc369cafe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/9aae11fbba30fbe06c5242831fda0527/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/498696bc82a6859f66115faf97d4b54c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/63209ccca70f5af36e2b998ab6ed7382/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/374e41838e069321b627b94952eb94bd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5a6fccd2daeb48b1d6ce4d3b81a154c5/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c4f3977cff1ecccc2da8790e61a908f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f852058c7e5c33a2ddc21b36f8a40f19/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/33708b4330ace7b3c25f41ce1efdff95/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f456f9ed684925a62d682ef6800d1bfb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9932697c20018d65b827471b77926c2c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2636b07e8b54cf98f672f0e74303a879/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/cbc03fc8666e887c736f948f0bf79cbb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/97ba6f4a35722cdc6f68f886258e3182/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0d02dfba79514e101d18e5d66d065de0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/ba7cbf1a438a2c53d9c604b4935d2ffe/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha2] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha2.aar/fd01eb0fd4598b86622226b0d3c5a00b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha2] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha2.aar/fd01eb0fd4598b86622226b0d3c5a00b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/374e41838e069321b627b94952eb94bd/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/374e41838e069321b627b94952eb94bd/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5a6fccd2daeb48b1d6ce4d3b81a154c5/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5a6fccd2daeb48b1d6ce4d3b81a154c5/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/374e41838e069321b627b94952eb94bd/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:8:9-42
+	android:roundIcon
+		ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.hanshen.feelsbook.MainActivity
+ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.hanshen.feelsbook.ListFeelsActivity
+ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:19:9-55
+	android:name
+		ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:19:19-52
+activity#com.example.hanshen.feelsbook.RecordActivity
+ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:20:9-52
+	android:name
+		ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:20:19-49
+activity#com.example.hanshen.feelsbook.EditFeeling
+ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:21:9-49
+	android:name
+		ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:21:19-46
+activity#com.example.hanshen.feelsbook.DetailFeeling
+ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:22:9-60
+	android:name
+		ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml:22:19-48
+uses-sdk
+INJECTED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha2] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha2.aar/fd01eb0fd4598b86622226b0d3c5a00b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha2] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha2.aar/fd01eb0fd4598b86622226b0d3c5a00b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/658898f676463fcf8652fa19faf8b643/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/658898f676463fcf8652fa19faf8b643/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/b99b6c4e1f5a49398b2d545bdaaba86e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/b99b6c4e1f5a49398b2d545bdaaba86e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9257bb2ffe4ef1e5e183f77452c90128/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9257bb2ffe4ef1e5e183f77452c90128/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e4b5de7d21f8edc9bd30f79e1864b317/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e4b5de7d21f8edc9bd30f79e1864b317/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ee3eaa31003a96b5cef688303f982034/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ee3eaa31003a96b5cef688303f982034/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/75a7af2a6497bae492190eda6b570d4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/75a7af2a6497bae492190eda6b570d4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f4e9148d8e7f258e5a6a9ada43918fcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f4e9148d8e7f258e5a6a9ada43918fcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/174418089249838f07eed78fcbfc983b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/174418089249838f07eed78fcbfc983b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/79699971f8ecc0f3b1138a482135473b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/79699971f8ecc0f3b1138a482135473b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4039632a0b58e6c13636d759832a711c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4039632a0b58e6c13636d759832a711c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/40d6d9d9ad6b8b1367c65c2928570917/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/40d6d9d9ad6b8b1367c65c2928570917/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/01f1a3bdd271b986a8c9953cc369cafe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/01f1a3bdd271b986a8c9953cc369cafe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/9aae11fbba30fbe06c5242831fda0527/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/9aae11fbba30fbe06c5242831fda0527/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/498696bc82a6859f66115faf97d4b54c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/498696bc82a6859f66115faf97d4b54c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/63209ccca70f5af36e2b998ab6ed7382/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/63209ccca70f5af36e2b998ab6ed7382/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/374e41838e069321b627b94952eb94bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/374e41838e069321b627b94952eb94bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5a6fccd2daeb48b1d6ce4d3b81a154c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5a6fccd2daeb48b1d6ce4d3b81a154c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c4f3977cff1ecccc2da8790e61a908f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c4f3977cff1ecccc2da8790e61a908f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f852058c7e5c33a2ddc21b36f8a40f19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f852058c7e5c33a2ddc21b36f8a40f19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/33708b4330ace7b3c25f41ce1efdff95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/33708b4330ace7b3c25f41ce1efdff95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f456f9ed684925a62d682ef6800d1bfb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f456f9ed684925a62d682ef6800d1bfb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9932697c20018d65b827471b77926c2c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9932697c20018d65b827471b77926c2c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2636b07e8b54cf98f672f0e74303a879/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2636b07e8b54cf98f672f0e74303a879/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/cbc03fc8666e887c736f948f0bf79cbb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/cbc03fc8666e887c736f948f0bf79cbb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/97ba6f4a35722cdc6f68f886258e3182/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/97ba6f4a35722cdc6f68f886258e3182/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0d02dfba79514e101d18e5d66d065de0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0d02dfba79514e101d18e5d66d065de0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/ba7cbf1a438a2c53d9c604b4935d2ffe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/hanshen/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/ba7cbf1a438a2c53d9c604b4935d2ffe/AndroidManifest.xml:20:5-44
+INJECTED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hanshen/Desktop/301/hanshen-FeelsBook/app/src/main/AndroidManifest.xml

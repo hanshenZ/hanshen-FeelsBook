@@ -1,0 +1,4 @@
+#Fri Oct 05 14:13:20 MDT 2018
+base.0=/Users/hanshen/Desktop/301/hanshen-FeelsBook/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

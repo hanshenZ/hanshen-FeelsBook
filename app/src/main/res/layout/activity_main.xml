@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/joy_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="joybutton"
+            android:text="@string/joy" />
+
+        <Button
+            android:id="@+id/fear_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="fearbutton"
+            android:text="@string/fear" />
+
+        <Button
+            android:id="@+id/love_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="lovebutton"
+            android:text="@string/love" />
+
+        <Button
+            android:id="@+id/surprise_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="surprisebutton"
+            android:text="@string/surprise" />
+
+        <Button
+            android:id="@+id/anger_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="angerbutton"
+            android:text="@string/anger" />
+
+        <Button
+            android:id="@+id/sadness_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="sadnessbutton"
+            android:text="@string/sadness" />
+
+        <TextView
+            android:id="@+id/comment_detail"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/comment" />
+
+        <EditText
+            android:id="@+id/main_comment"
+            android:layout_width="fill_parent"
+            android:layout_height="107dp"
+            android:scrollbars="horizontal" />
+
+        <Button
+            android:id="@+id/MainHistoryButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="historybutton"
+            android:text="@string/history" />
+
+        <Button
+            android:id="@+id/record"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="recordbutton"
+            android:text="@string/record" />
+
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
